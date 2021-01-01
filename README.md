@@ -1,6 +1,6 @@
 <img src="./assets/imgJp.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="João Paulo Pereira">
 <h1>Who I Am</h1> 
-<p align="left"> 
+<p> 
   I also have skills like ease of dealing with people, leading, being led and focal intelligence. I am continuously learning, looking for books, courses and people who can teach me.
 </p>
 
@@ -11,7 +11,7 @@
 <h2>🛠 Skills</h2> 
 
 <h3>💻 Main Technologies</h3>
-<p align="left">
+<p>
   <strong>CSS, Git&Github, HTML, JavaScript, Linux(main), React, SQL and Windows.</strong>
 </p>
 
@@ -23,8 +23,14 @@
 <h2>📚 Education</h2>
 
 <p>
-  Mathematics [2014-2018] (UNICENTRO - Guarapuava-PR)
-  Applied Mathematics and Computational [2019 - current] (UNICENTRO - Guarapuava-PR)
+  <ul>
+    <li>
+      Mathematics [2014-2018] (UNICENTRO - Guarapuava-PR)
+    </li>
+    <li>
+      Applied Mathematics and Computational [2019 - current] (UNICENTRO - Guarapuava-PR)
+    </li>
+  </ul>
 </p>
 
 
