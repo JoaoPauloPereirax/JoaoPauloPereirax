@@ -1,4 +1,4 @@
-<img src="./assets/imgJp1" min-width="400px" max-width="400px" width="400px" align="right" alt="João Paulo Pereira">
+<img src="./assets/imgJp1.jpeg" min-width="400px" max-width="400px" width="400px" align="right" alt="João Paulo Pereira">
 <h1>Who I Am</h1> 
 <p> 
   I also have skills like ease of dealing with people, leading, being led and focal intelligence. I am continuously learning, looking for books, courses and people who can teach me.
