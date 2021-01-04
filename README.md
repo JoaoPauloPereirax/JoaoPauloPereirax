@@ -4,7 +4,7 @@
   I also have skills like ease of dealing with people, leading, being led and focal intelligence. I am continuously learning, looking for books, courses and people who can teach me.
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloPereirax&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=JoaoPauloPereirax&amp;layout=compact&amp;theme=tokyonight)
+![Top Langs](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=JoaoPauloPereirax&amp;layout=compact&amp;theme=tokyonight)
 
 <h2>☎️ Contact Information</h2> 
 
