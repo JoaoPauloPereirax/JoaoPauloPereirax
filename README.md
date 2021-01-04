@@ -1,4 +1,10 @@
-<img src="./assets/imgJp1.jpeg" min-width="400px" max-width="400px" width="400px" align="right" alt="João Paulo Pereira">
+
+<div min-width="400px" max-width="400px" width="400px" align="right" alt="João Paulo Pereira">
+  ![Top Langs](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=lukazovic&amp;layout=compact&amp;theme=tokyonight)
+</div>
+
+
+
 <h1>Who I Am</h1> 
 <p> 
   I also have skills like ease of dealing with people, leading, being led and focal intelligence. I am continuously learning, looking for books, courses and people who can teach me.
@@ -12,8 +18,9 @@
 
 <h3>💻 Main Technologies</h3>
 <p>
-  <strong>CSS, Git&Github, HTML, JavaScript, Linux(main), Node.js,   'React.js, SQL and Windows.</strong>
+  <strong>CSS, Git&Github, HTML, JavaScript, Linux(main), Node.js,   React.js, SQL and Windows.</strong>
 </p>
+
 
 
 <h2>🗣 Languages</h2>
@@ -41,6 +48,8 @@
   
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-pereira-7615591a6/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-pereira-7615591a6/" /></a>
+
+  
 
   <a href="https://www.facebook.com/joaopaulo.pho/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/joaopaulo.pho/"/></a>
