@@ -1,14 +1,9 @@
 
-<div min-width="400px" max-width="400px" width="400px" align="right" alt="João Paulo Pereira">
-  ![Top Langs](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=lukazovic&amp;layout=compact&amp;theme=tokyonight)
-</div>
-
-
-
 <h1>Who I Am</h1> 
 <p> 
   I also have skills like ease of dealing with people, leading, being led and focal intelligence. I am continuously learning, looking for books, courses and people who can teach me.
 </p>
+![Top Langs](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=JoaoPauloPereirax&amp;layout=compact&amp;theme=tokyonight)
 
 <h2>☎️ Contact Information</h2> 
 
