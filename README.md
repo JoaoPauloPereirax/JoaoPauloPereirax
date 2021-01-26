@@ -51,10 +51,13 @@
 <p align="justify">
   <ul>
     <li>
-      Mathematics [2014-2018] (UNICENTRO - Guarapuava-PR)
+      Computer Science [2021 - current] - <a href="https://www.unifacvest.edu.br/">Unifacvest</a>
     </li>
     <li>
-      Applied Mathematics and Computational [2019 - current] (UNICENTRO - Guarapuava-PR)
+      Applied Mathematics and Computational [2019 - current] - <a href="https://www3.unicentro.br/">Unicentro</a>
+    </li>
+    <li>
+      Mathematics [2014-2018] - <a href="https://www3.unicentro.br/">Unicentro</a>
     </li>
   </ul>
 </p>
