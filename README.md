@@ -15,7 +15,12 @@
 
 <h2>🛠 Skills</h2>
 
-<h3>💻 Main Technologies</h3>
+<h3>💻 Soft Skills</h3>
+<p>
+  <strong>Focus, Creativity and Troubleshooting</strong>
+</p>
+
+<h3>💻 Hard Skills</h3>
 <p align="left">
 
 <a href="#" alt="HTML5">
@@ -29,7 +34,7 @@
   
   <a href="#" alt="Git">
   <img src="https://img.shields.io/badge/-GIT-F34F29?style=flat-square&logo=git&logoColor=white"/></a>
-  
+
   <a href="#" alt="Node.JS">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)"/></a>
   
@@ -37,7 +42,7 @@
   <img src="https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org"/></a>
 
 </p>
-<h3>💻 Other Technologies</h3>
+<h4>💻 Other Technologies</h4>
 <p>
   <strong>Github, Linux(Command Line), SQL and Windows.</strong>
 </p>
@@ -51,10 +56,7 @@
 <p align="justify">
   <ul>
     <li>
-      Computer Science [2021 - current] - <a href="https://www.unifacvest.edu.br/">Unifacvest</a>
-    </li>
-    <li>
-      Applied Mathematics and Computational [2019 - current] - <a href="https://www3.unicentro.br/">Unicentro</a>
+      Bachelor of Computer Science [2021 - current] - <a href="https://www.unifacvest.edu.br/">Unifacvest</a>
     </li>
     <li>
       Mathematics [2014-2018] - <a href="https://www3.unicentro.br/">Unicentro</a>
@@ -68,7 +70,4 @@
   
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-pereira-7615591a6/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-pereira-7615591a6/" /></a>
-
-  <a href="https://www.facebook.com/joaopaulo.pho/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/joaopaulo.pho/"/></a>
 </p>
