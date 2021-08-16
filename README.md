@@ -1,6 +1,6 @@
 <h1 align="center">Introduce Myself</h1> 
 <p align="justify"> 
-  I am currently a math teacher at SEED-PR and in my spare time I'm a chess player and, with knowledge in front-end. I also have skills like ease of dealing with people, leading, being led and focal intelligence. I am continuously learning, looking for books, courses and people who can teach me.
+  I am currently a math teacher at SEED-PR and in my spare time I'm a chess player and developer, with knowledge in front-end. I also have skills like ease of dealing with people, leading, being led and focal intelligence. I am continuously learning, looking for books, courses and people who can teach me.
 </p>
 
 <p align="center">
