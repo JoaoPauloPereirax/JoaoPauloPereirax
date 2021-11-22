@@ -41,28 +41,22 @@
   <a href="#" alt="React.JS">
   <img src="https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org"/></a>
 
-</p>
-<h4>💻 Other Technologies</h4>
-<p>
+
+#### 💻 Other Technologies
+
   <strong>Github, Linux(Command Line), SQL and Windows.</strong>
 </p>
 
-<h2>🗣 Languages</h2>
+## 🗣 Languages
 
 <p>Portuguese 🇧🇷 - Native & English 🇺🇸 - Beginner level</p>
 
 <h2>📚 Education</h2>
 
-<p align="justify">
-  <ul>
-    <li>
-      Bachelor of Computer Science [2021 - current] - <a href="https://www.unifacvest.edu.br/">Unifacvest</a>
-    </li>
-    <li>
-      Mathematics [2014-2018] - <a href="https://www3.unicentro.br/">Unicentro</a>
-    </li>
-  </ul>
-</p>
+- Bachelor of Computer Science [2021 - current] - [Unifacvest](https://www.unifacvest.edu.br/)
+- Mathematics [2014-2018] - [Unicentro](https://www3.unicentro.br/)
+  - Init 
+
 
 <p align="center">
   <a href="https://www.instagram.com/joaopaulopereirax/" alt="Instagram">
