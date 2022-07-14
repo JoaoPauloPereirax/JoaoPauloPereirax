@@ -3,11 +3,6 @@
   I am currently a math teacher at SEED-PR and in my spare time I'm a chess player and developer, with knowledge in front-end. I also have skills like ease of dealing with people, leading, being led and focal intelligence. I am continuously learning, looking for books, courses and people who can teach me.
 </p>
 
-<p align="center">
-  <a src="https://github.com/JoaoPauloPereirax?tab=repositories" alt="Technologies">
-    <img src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=JoaoPauloPereirax&layout=compact&theme=tokyonight" alt="Top Langs"/>
-  </a>
-</p>
 
 <h2>☎️ Contact Information</h2>
 
