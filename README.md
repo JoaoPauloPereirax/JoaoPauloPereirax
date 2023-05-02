@@ -50,7 +50,6 @@
 
 - Bachelor of Computer Science [2021 - current] - [Unifacvest](https://www.unifacvest.edu.br/)
 - Mathematics [2014-2018] - [Unicentro](https://www3.unicentro.br/)
-  - Init 
 
 
 <p align="center">
