@@ -1,6 +1,6 @@
 <h1 align="center">Introduce Myself</h1> 
 <p align="justify"> 
-  I am currently a math professor at SEED-PR and in my spare time I'm a chess player and developer, with knowledge in front-end. I also have skills like ease of dealing with people, leading, being led and focal intelligence. I am continuously learning, looking for books, courses and people who can teach me.
+  Hello! I am a mathematics teacher passionate about intellectual challenges and logical strategies. In addition to sharing my knowledge with students, I am an enthusiastic chess player, constantly delving into the complexities of the board to enhance my strategic skills. As a technology enthusiast, I also venture into the world of programming, exploring its creative possibilities to solve problems and develop innovative solutions. During my free time, I find peace and expression in music, playing the guitar and allowing melodies to guide me beyond the boundaries of logical reasoning. I am always seeking new challenges and opportunities to broaden my horizons, share my knowledge, and explore the beauty of mathematics, chess, programming, and music.
 </p>
 
 
