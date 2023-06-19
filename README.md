@@ -18,22 +18,19 @@
 <h3>💻 Hard Skills</h3>
 <p align="left">
 
-<a href="#" alt="HTML5">
+<a href="https://github.com/JoaoPauloPereirax/starbucks-html-lading-page" alt="HTML5">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   
-  <a href="#" alt="CSS3">
+  <a href="https://github.com/JoaoPauloPereirax/starbucks-html-lading-page" alt="CSS3">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /></a>
 
-  <a href="#" alt="JavaScript">
+  <a href="https://github.com/JoaoPauloPereirax/pizzas-javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Javascript-F29400?style=flat-square&logo=javascript&logoColor=white"/></a>
   
   <a href="#" alt="Git">
   <img src="https://img.shields.io/badge/-GIT-F34F29?style=flat-square&logo=git&logoColor=white"/></a>
-
-  <a href="#" alt="Node.JS">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)"/></a>
   
-  <a href="#" alt="React.JS">
+  <a href="https://github.com/JoaoPauloPereirax/breaking-bad-react-app" alt="React.JS">
   <img src="https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org"/></a>
 
 
