@@ -1,37 +1,27 @@
-<h1 align="center">Introduce Myself</h1> 
+# Welcome to my profile! ♟️💻
 <p align="justify"> 
-  Hello! I am a mathematics teacher passionate about intellectual challenges and logical strategies. In addition to sharing my knowledge with students, I am an enthusiastic chess player, constantly delving into the complexities of the board to enhance my strategic skills. As a technology enthusiast, I also venture into the world of programming, exploring its creative possibilities to solve problems and develop innovative solutions. During my free time, I find peace and expression in music, playing the guitar and allowing melodies to guide me beyond the boundaries of logical reasoning. I am always seeking new challenges and opportunities to broaden my horizons, share my knowledge, and explore the beauty of mathematics, chess, programming, and music.
+  Hello! I am an enthusiastic teacher of mathematics, programming, robotics, and chess, with front-end programming skills.
 </p>
 
+## 🛠 Skills
 
-<h2>☎️ Contact Information</h2>
-
-<p>✉️ joaopaulop.dev@gmail.com       📱 +55 42 9 88296874</p>
-
-<h2>🛠 Skills</h2>
-
-<h3>💻 Soft Skills</h3>
+### 💻 Soft Skills
 <p>
   <strong>Focus, Creativity and Troubleshooting</strong>
 </p>
 
-<h3>💻 Hard Skills</h3>
+### 💻 Hard Skills
+
 <p align="left">
-
-<a href="https://github.com/JoaoPauloPereirax/starbucks-html-lading-page" alt="HTML5">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-  
-  <a href="https://github.com/JoaoPauloPereirax/starbucks-html-lading-page" alt="CSS3">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /></a>
-
-  <a href="https://github.com/JoaoPauloPereirax/pizzas-javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Javascript-F29400?style=flat-square&logo=javascript&logoColor=white"/></a>
-  
-  <a href="#" alt="Git">
-  <img src="https://img.shields.io/badge/-GIT-F34F29?style=flat-square&logo=git&logoColor=white"/></a>
-  
-  <a href="https://github.com/JoaoPauloPereirax/breaking-bad-react-app" alt="React.JS">
-  <img src="https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org"/></a>
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width='50px'/>
+</p>
 
 
 #### 💻 Other Technologies
@@ -43,7 +33,7 @@
 
 <p>Portuguese 🇧🇷 - Native & English 🇺🇸 - Beginner level</p>
 
-<h2>📚 Education</h2>
+## 📚 Education
 
 - Bachelor of Computer Science [2021 - current] - [Unifacvest](https://www.unifacvest.edu.br/)
 - Mathematics [2014-2018] - [Unicentro](https://www3.unicentro.br/)
