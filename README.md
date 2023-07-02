@@ -4,8 +4,6 @@
   
 - 🌱 I’m currently learning React Redux.   
 
-<br/>
-
 ## 📱Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joão-paulo-pereira-7615591a6/" target="_blank">
@@ -19,14 +17,9 @@
 </a>  
 </div> 
 
-<br/>
+## 🛠 Skills
 
-## 🛠 Skills  
 - ⚡ Focus, Creativity and Troubleshooting  
-  
-
-<br/>  
-
 
 ## 💻 My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -59,8 +52,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Other Technologies 
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -71,22 +62,18 @@
 
 </td></tr></table>  
 
-<br/>
-
 ## 🗣 Languages
 
 - Portuguese 🇧🇷 - Native & English 🇺🇸 - Beginner level
-
-<br/>
 
 ## 📚 Education
 
 - Bachelor of Computer Science [2021 - current] - [Unifacvest](https://www.unifacvest.edu.br/)
 - Mathematics [2014-2018] - [Unicentro](https://www3.unicentro.br/)
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=JoaoPauloPereirax&show_icons=true&count_private=true&hide_border=true" align="center" />  
+##  ⚙ Most Used Languages 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPauloPereirax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<br/>
-
-<div align="left">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+###
