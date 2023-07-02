@@ -70,10 +70,3 @@
 
 - Bachelor of Computer Science [2021 - current] - [Unifacvest](https://www.unifacvest.edu.br/)
 - Mathematics [2014-2018] - [Unicentro](https://www3.unicentro.br/)
-
-##  ⚙ Most Used Languages 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPauloPereirax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
