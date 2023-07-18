@@ -1,4 +1,4 @@
-# Welcome to my profile! ♟️💻
+<h1 align="center"> Welcome to my profile! ♟️💻
 
 ### <div align="center">Hello! I am an enthusiastic teacher of mathematics, programming, robotics, and chess, with front-end programming skills.🚀</div>  
   
@@ -23,10 +23,7 @@
 
 ## 💻 My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
-### FrontEnd  
+<h3 align="center" >FRONTEND</h3>
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -42,8 +39,7 @@
 </td><td valign="top" width="33%">
 
 
-
-### BackEnd  
+<h3 align="center" >BACKEND</h3>
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -52,7 +48,7 @@
 
 </td><td valign="top" width="33%">
 
-### Other Technologies 
+<h3 align="center" > OTHERS TECHNOLOGIES  </h3>
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
