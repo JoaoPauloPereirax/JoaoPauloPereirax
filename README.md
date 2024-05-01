@@ -2,7 +2,7 @@
 
 ### <div align="center">Hello! I am an enthusiastic teacher of mathematics, programming, robotics, and chess, with front-end programming skills.🚀</div>  
   
-- 🌱 I’m currently learning React Native and Java.    
+- 🌱 I’m currently learning Back-End with PHP.    
 
 ## 📱Connect with me  
 <div align="center">
