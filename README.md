@@ -69,6 +69,6 @@
 - Portuguese 🇧🇷 - Native & English 🇺🇸 - Beginner level
 
 ## 📚 Education
-
+- Systems for the Internet [2024 - current] - [Utfpr](https://www.utfpr.edu.br/campus/guarapuava/home)
 - Bachelor of Computer Science [2021 - current] - [Unifacvest](https://www.unifacvest.edu.br/)
 - Mathematics [2014-2018] - [Unicentro](https://www3.unicentro.br/)
